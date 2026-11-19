@@ -145,23 +145,23 @@ const FIELDS = [
   {
     input: "[name='tipo']",
     error: "#e-tipo",
-    invalid: () => "Escolha o tipo de book.",
-    test: (value) => (value ? null : "Escolha o tipo de book, ou “Ainda não sei”."),
+    invalid: () => "Escolha o tipo de projeto.",
+    test: (value) => (value ? null : "Escolha o tipo de projeto, ou “Outro”."),
   },
   {
     input: "[name='prazo']",
     error: "#e-prazo",
-    invalid: () => "Diga para quando é o book.",
+    invalid: () => "Diga para quando é o livro.",
     test: (value) =>
       value && value >= currentMonthValue() ? null : "Escolha este mês ou um mês futuro.",
   },
   {
     input: "[name='mensagem']",
     error: "#e-mensagem",
-    invalid: () => "Conte um pouco sobre o book.",
+    invalid: () => "Conte um pouco sobre o livro.",
     test: (value) => {
       const text = value.trim();
-      if (!text) return "Conte um pouco sobre o book.";
+      if (!text) return "Conte um pouco sobre o livro.";
       if (text.length < 10) return "Conte um pouco mais, para podermos orçar.";
       return null;
     },
