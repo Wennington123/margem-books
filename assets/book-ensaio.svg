@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" preserveAspectRatio="xMidYMid slice">
+<rect width="1920" height="1080" fill="#efe9d8"/>
+
+<rect width='1920' height='1080' fill='#101b18'/>
+<rect x='640' y='120' width='640' height='840' rx='10' fill='#f6f4ea'/>
+<rect x='700' y='180' width='520' height='600' fill='#d9954d'/>
+<circle cx='860' cy='420' r='150' fill='#5c6b64'/>
+<rect x='700' y='840' width='220' height='24' fill='#101b18'/>
+<rect x='700' y='880' width='140' height='10' fill='#5c6b64'/>
+<rect x='560' y='960' width='800' height='30' rx='15' fill='#b06f34' opacity='0.6'/>
+
+</svg>

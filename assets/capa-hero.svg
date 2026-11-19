@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1281" preserveAspectRatio="xMidYMid slice">
+<rect width="1920" height="1281" fill="#efe9d8"/>
+
+<rect width='1920' height='1281' fill='#101b18'/>
+<rect x='0' y='820' width='1920' height='461' fill='#b06f34'/>
+<rect x='260' y='300' width='1400' height='620' rx='8' fill='#f6f4ea'/>
+<rect x='955' y='300' width='10' height='620' fill='#efe9d8'/>
+<rect x='340' y='360' width='560' height='480' fill='#5c6b64'/>
+<rect x='1010' y='360' width='560' height='480' fill='#d9954d'/>
+<rect x='340' y='360' width='560' height='480' fill='none' stroke='#2a3a35' stroke-width='6'/>
+<rect x='1010' y='360' width='560' height='480' fill='none' stroke='#2a3a35' stroke-width='6'/>
+<circle cx='620' cy='540' r='120' fill='#efe9d8'/>
+<rect x='1010' y='640' width='560' height='200' fill='#5c6b64'/>
+<rect x='640' y='990' width='80' height='12' fill='#f6f4ea' opacity='0.5'/>
+<rect x='1200' y='990' width='80' height='12' fill='#f6f4ea' opacity='0.5'/>
+
+</svg>
